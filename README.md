@@ -23,10 +23,11 @@ Cieľom práce je analyzovať existujúce nástroje pre vývoj softvéru s využ
 ## Kalendár úloh  
 | Úloha                     | Termín      | Stav       |  
 |---------------------------|-------------|------------|  
-| Analýza existujúcich riešení | 01.2025     | ✔️ Splnené |  
-| Návrh architektúry         | 03.2025     | ◻️ Plánované |  
-| Implementácia VR/AR modulu | 06.2025     | ◻️ Plánované |  
-| Testovanie a vyhodnotenie  | 09.2025     | ◻️ Plánované |  
+| Hladanie existujúcich riešení | 02.2025     | ✔️ Splnené |  
+| Analýza existujúcich riešení   | xx.2025     | ◻️ Plánované |  
+| Návrh architektúry         | xx.2025     | ◻️ Plánované |  
+| Implementácia VR/AR modulu | xx.2025     | ◻️ Plánované |  
+| Testovanie a vyhodnotenie  | xx.2025     | ◻️ Plánované |  
 
 ---
 
