@@ -17,7 +17,7 @@ Cieľom práce je analyzovať existujúce nástroje pre vývoj softvéru s využ
 ## Odkazy  
 - **Zadanie práce:** [zadanie-zp_197870.pdf](zadanie-zp_197870.pdf)  
 - **Literatúra a zdroje:** [Google Docs](https://docs.google.com/document/d/1LaoTu4couwUZLzU9-AiiqsxA9crzD-ZdK2Uzs6uVwvc/edit?tab=t.0)  
-- **Overleaf dokument:** [Link bude doplnený]()  
+- **Overleaf dokument:** [Overleaf](https://www.overleaf.com/read/qdrmmjjxfrfs#a03fec)  
 - **Webová stránka projektu/GitHub:** [Link bude doplnený]()  
 
 ## Kalendár úloh  
