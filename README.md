@@ -15,7 +15,7 @@ Cieľom práce je analyzovať existujúce nástroje pre vývoj softvéru s využ
 3. Vyhodnotenie dopadu riešenia v porovnaní s tradičnými metódami.  
 
 ## Odkazy  
-- **Zadanie práce:** [zadanie-zp_197870.pdf](zadanie-zp_197870.pdf)  
+- **Zadanie práce:** [Zadanie](Zadanie.pdf)  
 - **Literatúra a zdroje:** [Google Docs](https://docs.google.com/document/d/1LaoTu4couwUZLzU9-AiiqsxA9crzD-ZdK2Uzs6uVwvc/edit?tab=t.0)  
 - **Diplomová práca:** [Overleaf](https://www.overleaf.com/read/qdrmmjjxfrfs#a03fec)
 - Práca sa nachádza aj vo priečinku resources vo formáte PDF
