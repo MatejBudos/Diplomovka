@@ -25,10 +25,14 @@ Cieľom práce je analyzovať existujúce nástroje pre vývoj softvéru s využ
 | Úloha                     | Termín      | Stav       |  
 |---------------------------|-------------|------------|  
 | Hladanie existujúcich riešení | 02.2025     | ✔️ Splnené |  
-| Analýza existujúcich riešení   | 10.2025     | ✔️ Splnené |  
-| Návrh architektúry         | 12.2025     | Skoro hotové |  
-| Implementácia VR/AR modulu | 02.2025     | Začiatky |  
-| Testovanie a vyhodnotenie  | 04.2025     | ◻️ Plánované |  
+| Analýza existujúcich riešení   | 10.2025     | ✔️ Splnené |
+| Písanie Analýzy   | 12.2025     | ✔️ Splnené |
+| Návrh architektúry a písanie        | 10.2025     | Skoro hotové |  
+| Implementácia VR/AR screen mirroring | 10.2025     | ✔️ Splnené |
+| Komunikácia VS code s Debuggerom | 11.2025     | ✔️ Splnené |
+| Posielanie eventov z debuggera do UNITY | 11.2025     | ✔️ Splnené |
+| Implementácia VR/AR Vizualizácie | 02.2026     | Začiatky |  
+| Testovanie a vyhodnotenie  | 04.2026     | ◻️ Plánované |  
 
 ---
 
